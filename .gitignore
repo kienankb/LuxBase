@@ -31,3 +31,10 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+#
+# CUSTOM
+#
+
+# Ano (Arduino) build files
+arduino/.ano_build
