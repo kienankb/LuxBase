@@ -37,4 +37,4 @@ node_modules
 #
 
 # Ano (Arduino) build files
-arduino/.ano_build
+arduino/.build_ano
