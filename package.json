@@ -1,7 +1,7 @@
 {
   "name": "lightingserver",
   "version": "1.0.0",
-  "description": "",
+  "description": "Controlling software for DIY smart lighting systems using analog RGB LED strips.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,13 @@
   "author": "Kienan Knight-Boehm",
   "license": "ISC",
   "dependencies": {
+    "basic-auth": "^1.0.3",
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
     "serialport": "^2.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kienankb/LuxBase"
   }
 }
